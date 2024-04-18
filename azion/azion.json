@@ -1,0 +1,20 @@
+{
+  "name": "HelloWorldBrazilJSTest-xw5a80",
+  "env": "production",
+  "application": {
+    "id": 1713448357,
+    "name": "HelloWorldBrazilJSTest-xw5a80"
+  },
+  "domain": {
+    "id": 1713446751,
+    "name": "HelloWorldBrazilJSTest-xw5a80",
+    "url": "qcpbee31x3.map.azionedge.net"
+  },
+  "function": {
+    "id": 20196,
+    "name": "HelloWorldBrazilJSTest-xw5a80"
+  },
+  "version-id": "20240418135828",
+  "type": "javascript",
+  "mode": "compute"
+}
